@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.ramsys.nl/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/maatwerk-software</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/mobile-apps</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/website-of-webshop</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/dataconversie-of-datamigratie</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/hosting-domeinregistratie-en-e-mail</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/ssl-beveiligingscertificaten</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/e-mail-marketing</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/zoekmachineoptimalisatie-seo</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/diensten/consultancy-en-detachering</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/over-ons</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/contact</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/support</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.ramsys.nl/privacy</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
